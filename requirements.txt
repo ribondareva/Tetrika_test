@@ -1,0 +1,5 @@
+beautifulsoup4==4.13.4
+cffi==1.17.1
+pycparser==2.22
+soupsieve==2.7
+typing_extensions==4.13.2
